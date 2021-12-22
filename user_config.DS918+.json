@@ -6,9 +6,11 @@
     "mac1": "1c1b0d7572f7"
   },
   "synoinfo": {
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no",
-    "maxdisks" : "12"
+    "supportsystemperature": "yes",
+    "supportsystempwarning": "yes",
+    "internalportcfg":"0xfffef",
+    "esataportcfg":"0x10"
+  
   },
   "ramdisk_copy": {}
 }
