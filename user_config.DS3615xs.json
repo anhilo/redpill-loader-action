@@ -4,12 +4,12 @@
     "pid": "0x0001",
     "sn": "1130LWN123456",
     "mac1": "001132123456",
-    "SataPortMap":"99"
+    "SataPortMap":"8"
   },
   "synoinfo": {
     "supportsystemperature": "no",
     "supportsystempwarning": "no",
-     "maxdisks" : "16"
+     "maxdisks" : "12"
   },
   "ramdisk_copy": {}
 }
