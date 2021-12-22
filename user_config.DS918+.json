@@ -8,9 +8,8 @@
   "synoinfo": {
     "supportsystemperature": "no",
     "supportsystempwarning": "no",
-    "maxdisks" : "16",
-    "internalportcfg" : "0xe0",
-    "esataportcfg" : "0xffe0"
+    "maxdisks" : "8",
+
   },
   "ramdisk_copy": {}
 }
