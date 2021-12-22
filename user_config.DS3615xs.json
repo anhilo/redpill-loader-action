@@ -4,7 +4,8 @@
     "pid": "0x0001",
     "sn": "1130LWN123456",
     "mac1": "001132123456",
-    "SataPortMap":"8"
+    "SataPortMap":"8",
+    "DiskIdxMap":"0x01"
   },
   "synoinfo": {
     "supportsystemperature": "no",
